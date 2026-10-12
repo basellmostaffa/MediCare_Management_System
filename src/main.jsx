@@ -1,4 +1,4 @@
-import {StrictMode,useEffect,useMemo,useState} from 'react';
+import React,{StrictMode,useEffect,useMemo,useState} from 'react';
 import {createRoot} from 'react-dom/client';
 import {Activity,ArrowDownToLine,ArrowUpRight,Bell,CalendarDays,Check,ChevronDown,CircleHelp,Clock3,CreditCard,FileText,LayoutDashboard,Menu,Moon,MoreHorizontal,Plus,Search,Settings,Stethoscope,Sun,Users,X} from 'lucide-react';
 import './styles.css';
